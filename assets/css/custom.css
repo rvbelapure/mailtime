@@ -1,0 +1,22 @@
+.style-font{
+	font-family: 'Convergence', sans-serif;
+}
+.navbar-fixed-top {
+    border-top: 7px solid #D90000;
+}
+.well {
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 14px;
+	margin-left:0;
+}
+label {
+    color: #F08989;
+}
+#login-navbar{
+height:400px;
+}
